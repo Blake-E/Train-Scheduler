@@ -1,0 +1,69 @@
+.jumbotron-fluid{
+    background-color: white;
+    color: black;
+  
+    padding-top: 1%;
+    padding-bottom: 1%;
+  }
+  
+  #addTrainButton{
+    color: #FFFFFF;
+    background: #912C22;
+    text-shadow: 0 0 10px #FFFFFF;
+    color: #FFFFFF;
+    background: #912C22;
+  }
+  
+  #logo{
+    background-color:green;
+    color:orange;
+    color: orange;
+    background: #094080;
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.2), 0px -5px 35px rgba(255,255,255,0.3);
+    border-radius: 20px;
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    height: 100%;
+  }
+
+  #static-table-header{
+    background-color: #fbfbfb;
+  }
+  
+  table{
+    border: 1px solid #e6e6e6;
+  }
+  
+  th{
+    text-align: center;
+    font-weight: bold;
+  
+    font-size: 16px;
+  }
+  
+  td{
+    text-align: center;
+  }
+  
+  .clock-display{
+    color: red;
+    font-size: 45px;
+    font-weight: bold;
+  }
+  
+  .panel-title{
+    font-size: 22px;
+    font-weight: bold;
+  }
+  
+  .panel-heading{
+    color: #FFFFFF;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    color: #FFFFFF;
+    background: #232323;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
